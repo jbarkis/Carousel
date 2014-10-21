@@ -13,6 +13,15 @@
 		4D5D0F5B19F300EF00B6BCED /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D5D0F5A19F300EF00B6BCED /* Images.xcassets */; };
 		4D5D0F5E19F300EF00B6BCED /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5D0F5C19F300EF00B6BCED /* LaunchScreen.xib */; };
 		4D5D0F6A19F300EF00B6BCED /* CarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F6919F300EF00B6BCED /* CarouselTests.swift */; };
+		4D5D0F7419F302D800B6BCED /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7319F302D800B6BCED /* IntroViewController.swift */; };
+		4D5D0F7619F30BD900B6BCED /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7519F30BD900B6BCED /* LoginViewController.swift */; };
+		4D5D0F7819F30DE100B6BCED /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7719F30DE100B6BCED /* TutorialViewController.swift */; };
+		4D5D0F7A19F44D2000B6BCED /* ForgotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7919F44D2000B6BCED /* ForgotViewController.swift */; };
+		4D5D0F7C19F471AB00B6BCED /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7B19F471AB00B6BCED /* FeedViewController.swift */; };
+		4D5D0F7E19F4772900B6BCED /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7D19F4772900B6BCED /* ConversationsViewController.swift */; };
+		4D5D0F8019F477B700B6BCED /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F7F19F477B700B6BCED /* SettingsViewController.swift */; };
+		4D5D0F8219F47A7400B6BCED /* CreateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5D0F8119F47A7400B6BCED /* CreateViewController.swift */; };
+		4D91E7B519F5E54700542514 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D91E7B419F5E54700542514 /* TermsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		4D5D0F6319F300EF00B6BCED /* CarouselTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarouselTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D5D0F6819F300EF00B6BCED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D5D0F6919F300EF00B6BCED /* CarouselTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselTests.swift; sourceTree = "<group>"; };
+		4D5D0F7319F302D800B6BCED /* IntroViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7519F30BD900B6BCED /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7719F30DE100B6BCED /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7919F44D2000B6BCED /* ForgotViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7B19F471AB00B6BCED /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7D19F4772900B6BCED /* ConversationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationsViewController.swift; sourceTree = "<group>"; };
+		4D5D0F7F19F477B700B6BCED /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		4D5D0F8119F47A7400B6BCED /* CreateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateViewController.swift; sourceTree = "<group>"; };
+		4D91E7B419F5E54700542514 /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +98,15 @@
 				4D5D0F5319F300EF00B6BCED /* AppDelegate.swift */,
 				4D5D0F5519F300EF00B6BCED /* ViewController.swift */,
 				4D5D0F5719F300EF00B6BCED /* Main.storyboard */,
+				4D91E7B419F5E54700542514 /* TermsViewController.swift */,
+				4D5D0F8119F47A7400B6BCED /* CreateViewController.swift */,
+				4D5D0F7F19F477B700B6BCED /* SettingsViewController.swift */,
+				4D5D0F7D19F4772900B6BCED /* ConversationsViewController.swift */,
+				4D5D0F7B19F471AB00B6BCED /* FeedViewController.swift */,
+				4D5D0F7919F44D2000B6BCED /* ForgotViewController.swift */,
+				4D5D0F7719F30DE100B6BCED /* TutorialViewController.swift */,
+				4D5D0F7519F30BD900B6BCED /* LoginViewController.swift */,
+				4D5D0F7319F302D800B6BCED /* IntroViewController.swift */,
 				4D5D0F5A19F300EF00B6BCED /* Images.xcassets */,
 				4D5D0F5C19F300EF00B6BCED /* LaunchScreen.xib */,
 				4D5D0F5119F300EF00B6BCED /* Supporting Files */,
@@ -161,6 +188,7 @@
 				TargetAttributes = {
 					4D5D0F4D19F300EF00B6BCED = {
 						CreatedOnToolsVersion = 6.0.1;
+						DevelopmentTeam = UWX4368CMH;
 					};
 					4D5D0F6219F300EF00B6BCED = {
 						CreatedOnToolsVersion = 6.0.1;
@@ -212,8 +240,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D91E7B519F5E54700542514 /* TermsViewController.swift in Sources */,
+				4D5D0F8219F47A7400B6BCED /* CreateViewController.swift in Sources */,
+				4D5D0F7619F30BD900B6BCED /* LoginViewController.swift in Sources */,
+				4D5D0F7419F302D800B6BCED /* IntroViewController.swift in Sources */,
+				4D5D0F7819F30DE100B6BCED /* TutorialViewController.swift in Sources */,
+				4D5D0F7E19F4772900B6BCED /* ConversationsViewController.swift in Sources */,
 				4D5D0F5619F300EF00B6BCED /* ViewController.swift in Sources */,
 				4D5D0F5419F300EF00B6BCED /* AppDelegate.swift in Sources */,
+				4D5D0F7A19F44D2000B6BCED /* ForgotViewController.swift in Sources */,
+				4D5D0F7C19F471AB00B6BCED /* FeedViewController.swift in Sources */,
+				4D5D0F8019F477B700B6BCED /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,6 +373,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Carousel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,6 +384,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Carousel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -405,6 +444,7 @@
 				4D5D0F6F19F300EF00B6BCED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D5D0F7019F300EF00B6BCED /* Build configuration list for PBXNativeTarget "CarouselTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +453,7 @@
 				4D5D0F7219F300EF00B6BCED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
